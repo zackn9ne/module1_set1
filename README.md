@@ -43,3 +43,27 @@ _day one_
 - "ok create a project" in github featuring a boilerplate `index.html` file and a `readme.md` file
 - second thing, if you want to try to style your `MD` a pretty good reference is `dillinger.io`
 - third thing, go ahead and use an `HTML boilerplate` and just copy paste the code online. Having to manually type in a blank `HTML` document is crude an a waste of your time.
+
+## how do you expect me to even do this?
+1. log into your `GitHub`
+2. click the `+` in the upper right and `select` `Create New Rep`
+3. initialize that `Repo` with a `Readme.MD` file by `pressing the right checkbox during the creation screen`
+
+1. now we want to work on the `boilerplate`
+2. find a `HTML5` boilerplate online or use this one
+```
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>title</title>
+  </head>
+  <body>
+  
+  </body>
+</html>
+```
+3. press `create new file` from the `github.com` new repo page you just created
+4. call that file `index.html`
+5. paste in the `boilerplate`
+6. profit
