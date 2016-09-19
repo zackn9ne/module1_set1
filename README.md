@@ -41,4 +41,4 @@ _day one_
 
 # hw one
 - "ok create a project" in github featuring a boilerplate `index.html` file and a `readme.md` file
-- second thing
+- second thing, if you want to try to style your `MD` a pretty good reference is `dillinger.io`
