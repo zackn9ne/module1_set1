@@ -40,5 +40,6 @@ _day one_
  * `npm -v`
 
 # hw one
+
 - "create a project" in github featuring a boilerplate `index.html` file and a `readme.md` file
 - 
