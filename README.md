@@ -42,3 +42,4 @@ _day one_
 # hw one
 - "ok create a project" in github featuring a boilerplate `index.html` file and a `readme.md` file
 - second thing, if you want to try to style your `MD` a pretty good reference is `dillinger.io`
+- third thing, go ahead and use an `HTML boilerplate` and just copy paste the code online. Having to manually type in a blank `HTML` document is crude an a waste of your time.
