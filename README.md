@@ -2,9 +2,15 @@
 Module 1's online coursework suppliment
 
 _day one_
-# Module 2 MacBook Setup
+# Pure Basics
+1. [internet infographic](http://kaiserthesage.com/the-internet/)
+2. [origin of programming languages](http://www.veracode.com/sites/default/files/wp-content/uploads/2013/05/History-Of-Programming-Languages-Veracode.jpg)
+3. [programming language ranking](http://spectrum.ieee.org/static/interactive-the-top-programming-languages-2016)
 
-1. [brew homepage](http://brew.sh/)
+# Module 1 MacBook Setup
+
+1. [join GitHub](http://github.com/join)
+2. [brew homepage](http://brew.sh/)
 2. 
  [setup brew](https://coolestguidesontheplanet.com/installing-homebrew-on-os-x-el-capitan-10-11-package-manager-for-unix-apps/) 
 
