@@ -78,3 +78,6 @@ _day one_
 4. call that file `index.html`
 5. paste in the `boilerplate`
 6. profit
+
+# day 3
+- [Lists being used in unconventional ways](http://www.w3schools.com/bootstrap/bootstrap_navbar.asp)
