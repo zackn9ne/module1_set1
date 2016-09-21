@@ -81,3 +81,57 @@ _day one_
 
 # day 3
 - [Lists being used in unconventional ways](http://www.w3schools.com/bootstrap/bootstrap_navbar.asp)
+- Homework is to clean up this form and include it somewhere in your `index.html` file
+```
+  <form action="http://www.example.com/login.php">
+
+    <p>Favourite Phrase
+      <textarea>words yo...</textarea>
+    </p>
+      
+    <p>Password
+      <input type="password">
+    </p>
+
+     <p>
+     Who said that 
+      <input>
+    </p>
+    
+    <p>
+      Is famous? 
+      <input type="checkbox">
+    </p>
+    
+<p>Please select your favorite genre:
+
+<br />
+ 
+  You have got to give radio buttons a "name" field
+  <p>
+
+<input type="radio"/> Rock
+
+<input type="radio"/>Pop
+
+<input type="radio"/>Timmy
+  
+<input type="radio"/>Lassie
+    <p>
+      Which Crips member are you?
+            <p>
+    <select name="crips">
+
+      <option value="big stacey">Big Stacey</option>
+      <option value="big stacey">Big Worm</option>
+      <option value="big stacey">Big C Locc</option>
+      <option value="big stacey">Small C</option>
+      <option value="big stacey">Snoop Dogg</option>
+      <option value="big stacey">---</option>
+      <option value="big stacey">Decline to Identify</option>
+      </select>
+      <p>
+      </p>
+
+</form>
+```
