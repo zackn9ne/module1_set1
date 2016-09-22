@@ -140,7 +140,7 @@ Day 4
 
 What happened in class Review
 
-HTML <textarea> Tag
+HTML TEXTAREA Tag
 http://www.w3schools.com/tags/tag_textarea.asp
 
 List of all HTML5 allowed imput types, yes even color
