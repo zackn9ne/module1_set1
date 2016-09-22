@@ -138,3 +138,13 @@ _day one_
 
 # day 4
 - [List of all HTML5 allowed imput types, yes even color](http://www.w3schools.com/html/html_form_input_types.asp)
+
+- _Homework_
+- add an image to your `index.html` file with the `img` tag.
+- find an `URL` of an `image` on the `internet` somehwere and copy paste that `url` into the `src=""` part of your `img' tag in order to display said image in a `JS bin`
+- do this in `JS bin` first so you can check that it works, and when you are done paste it into your `index.html` on `GitHub` thus updating that file.
+- your index.html file should now have an `image` in it as well as all the former things
+- don't worry about where the image is physically in the file, just put it somewhere that looks good
+
+- _Homework part two_
+- take a screen shot of you succesfully `web instpecting` the image found on a regular site, like maybe, [ "nytimes", "nypost", "espn", or something like that]
