@@ -140,7 +140,7 @@ _day one_
 
 What happened in class Review
 
-- HTML TEXTAREA Tag: http://www.w3schools.com/tags/tag_textarea.asp
+- HTML `<textarea>` Tag: http://www.w3schools.com/tags/tag_textarea.asp
 
 - List of all HTML5 allowed imput types, yes even color: http://www.w3schools.com/html/html_form_input_types.asp
 
