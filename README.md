@@ -135,3 +135,6 @@ _day one_
 
 </form>
 ```
+
+# day 4
+- [List of all HTML5 allowed imput types, yes even color](http://www.w3schools.com/html/html_form_input_types.asp)
