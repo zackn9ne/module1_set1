@@ -140,11 +140,9 @@ Day 4
 
 What happened in class Review
 
-HTML TEXTAREA Tag:
-http://www.w3schools.com/tags/tag_textarea.asp
+- HTML TEXTAREA Tag: http://www.w3schools.com/tags/tag_textarea.asp
 
-List of all HTML5 allowed imput types, yes even color:
-http://www.w3schools.com/html/html_form_input_types.asp
+- List of all HTML5 allowed imput types, yes even color: http://www.w3schools.com/html/html_form_input_types.asp
 
 Homework:
 - add an image to your `index.html` file with the `img` tag.
