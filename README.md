@@ -138,6 +138,7 @@ _day one_
 
 # day 4
 _Cource Review_
+
 - HTML <textarea> Tag
 - [List of all HTML5 allowed imput types, yes even color](http://www.w3schools.com/html/html_form_input_types.asp)
 
