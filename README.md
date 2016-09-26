@@ -161,6 +161,7 @@ Combine various `html` elements, such as `ul` `li` `p` `span` `h1` & `div`'s in 
 
 Here are the links to the `block` v `inline`
 [block elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Block-level_elements)
+
 [inline elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Inline_elements)
 
 ```
