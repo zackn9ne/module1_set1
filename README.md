@@ -157,7 +157,11 @@ Homework part two (2):
 # Day 5/ week 2
 Homework is to find images online, `hack` the width using the method below so that way you can use an image you found even if its too large.
 
-Combine various `html` elements, such as `ul` `li` `p` `span` `h1` & `div`'s in order to make your image mellee.
+Combine various `html` elements, such as `ul` `li` `p` `span` `h1` & `div`'s in order to make your image mellee. Use at least 10 (ten) images and use `all` of the `html` elements above, keeping in mind if they are `block` or `inline`.
+
+Here are the links to the `block` v `inline`
+[block elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Block-level_elements)
+[inline elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Inline_elements)
 
 ```
   <div>
