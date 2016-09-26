@@ -153,3 +153,18 @@ Homework:
 
 Homework part two (2):
 - take a screen shot of you succesfully `web instpecting` the image found on a regular site, like maybe, [ "nytimes", "nypost", "espn", or something like that]
+
+# Day 5/ week 2
+```
+  <div>
+
+    <div>
+      <p>
+      <img src="http://www.promicabana.de/wp-content/uploads/2011/09/Charlie-Sheen-Comedy-Central-Roast-2.jpg" width="220">
+      </p>
+      <p>
+      <img src="https://static01.nyt.com/images/2016/09/26/opinion/26ENDORSE-WEB-BW/26ENDORSE-WEB-BW-superJumbo-v2.jpg" width="300">
+      </p>
+  </div>
+  </div>
+```
