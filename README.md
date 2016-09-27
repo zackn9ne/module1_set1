@@ -217,3 +217,10 @@ Homework
 - make sure you make the `navbar` **important** using `ul` `li` and `a tags` I don't care if it just looks like a bulleted list of links, I can show you how that gets _stylized_ in order to make look right later, just do the basics now.
 - make `relative` links to the other `html` files using a `navbar`
 - **use layout on page** `432` of the book
+
+How do I turn this in?
+- since you made this website in it's own `folder` probably on your desktop...
+- go to your homework repo
+- `click` on `upload files`
+- **drag** the folder from your desktop to this window, then click `upload`
+- then it will show the `foldername` in your repo all nice and you can click around in there to verify 
