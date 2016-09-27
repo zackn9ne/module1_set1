@@ -136,7 +136,7 @@ _day one_
 </form>
 ```
 
-# Day 4
+# Lesson 4
 
 What happened in class Review
 
@@ -177,7 +177,7 @@ Here are the links to the `block` v `inline`
   </div>
   </div>
 ```
-# Day 7
+# Lesson 7
 
 ```
 <!DOCTYPE html>
