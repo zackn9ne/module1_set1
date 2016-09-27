@@ -213,5 +213,5 @@ Here are the links to the `block` v `inline`
 - make a `image` folder and `download` an image off the web to use there a handfull of images, so keep them in there
 - make `relative` links to the images 
 - make `relative` links to the other `html` files using a `navbar`
-- make sure you make the `navbar` *important* using `ul` `li` and `a tags` I don't care if it just looks like a bulleted list of links, I can show you how that gets _stylized_ in order to make look right later, just do the basics now.
-- use layout on page `432` of the book
+- make sure you make the `navbar` **important** using `ul` `li` and `a tags` I don't care if it just looks like a bulleted list of links, I can show you how that gets _stylized_ in order to make look right later, just do the basics now.
+- **use layout on page** `432` of the book
