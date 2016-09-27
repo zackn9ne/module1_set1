@@ -211,9 +211,9 @@ Here are the links to the `block` v `inline`
 Homework
 
 - make your own website
-- make a `index.html` page and a `something.html` 
-- make a `image` folder and `download` an image off the web to use there a handfull of images, so keep them in there
+- **always start with** a `index.html` page and additional `something.html` and more if you feel comfortable
+- make a `image` folder and `download` about 7 (seven) images off the web to use there a handfull of images, so keep them in _all in_ there
 - make `relative` links to the images 
-- make `relative` links to the other `html` files using a `navbar`
 - make sure you make the `navbar` **important** using `ul` `li` and `a tags` I don't care if it just looks like a bulleted list of links, I can show you how that gets _stylized_ in order to make look right later, just do the basics now.
+- make `relative` links to the other `html` files using a `navbar`
 - **use layout on page** `432` of the book
