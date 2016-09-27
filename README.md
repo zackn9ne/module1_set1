@@ -208,4 +208,9 @@ Here are the links to the `block` v `inline`
 </body>
 </html>
 ```
-something
+- make your own website
+- make a `index.html` page and a `something.html` 
+- make a `image` folder and `download` an image off the web to use there a handfull of images, so keep them in there
+- make `relative` links to the images 
+- make `relative` links to the other `html` files using a `navbar`
+- use layout on page `432`
