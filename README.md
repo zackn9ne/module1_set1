@@ -208,6 +208,8 @@ Here are the links to the `block` v `inline`
 </body>
 </html>
 ```
+Homework
+
 - make your own website
 - make a `index.html` page and a `something.html` 
 - make a `image` folder and `download` an image off the web to use there a handfull of images, so keep them in there
