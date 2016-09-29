@@ -233,3 +233,11 @@ How do I turn this in?
 Todo's
 1. add more things to site
 2. Make a `git commit` and `push` `master branch` to the `git origin` which is your online repo
+
+# Lesson 9
+
+- Intro to css
+
+- Homework:
+- add a css file to your `mini_site`
+- `source` that file in your header 
