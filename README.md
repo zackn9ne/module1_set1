@@ -224,3 +224,12 @@ How do I turn this in?
 - `click` on `upload files`
 - **drag** the folder from your desktop to this window, then click `upload`
 - then it will show the `foldername` in your repo all nice and you can click around in there to verify 
+
+# Lesson 8
+
+- Objective: add more things to your `mini_site`
+- Objective: use `github` the right way
+
+Todo's
+1. add more things to site
+2. Make a `git commit` and `push` `master branch` to the `git origin` which is your online repo
