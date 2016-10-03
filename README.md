@@ -258,3 +258,4 @@ Todo's
 ** homework **
 
 - utilise page `413` to add a background image to a div, remember to get the path of the image right, something like `../images/image_name.jpg`
+- utilise font family on page `273`, use a font stack from there on one or all of your elements, probably start with the `body` and it will `cascade` down.
