@@ -248,3 +248,9 @@ Todo's
 - `git add -A .`
 - `git commit -m "commit message"`
 - `git push origin master`
+
+# Session 10
+
+- https://snook.ca/archives/html_and_css/vm-vh-units
+- http://apex.sh/ping/
+- http://www.cssmania.com/
