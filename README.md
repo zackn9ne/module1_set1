@@ -254,3 +254,7 @@ Todo's
 - https://snook.ca/archives/html_and_css/vm-vh-units
 - http://apex.sh/ping/
 - http://www.cssmania.com/
+
+** homework **
+
+- utilise page `413` to add a background image to a div, remember to get the path of the image right, something like `../images/image_name.jpg`
