@@ -266,3 +266,27 @@ Todo's
 - http://www.cssmatic.com/box-shadow
 - `border-radius: 10px;`
 - https://fonts.google.com/
+
+*** homework **
+
+- make a new `html` document in your repo called `div_time.html`
+- wire up a `style.css file` to it in a `/css` directory
+- I don't care about images for now
+- you _have to_ use the following divs
+- make `two` `.feature` `div's` `display: inline-block;` `margin: 0 auto;` and `width: 300px;`, remember to _force it to be this way_
+- make `five` div's total on the page, `header` `hero` `footer` are all `100% width` so they will be easy
+- put `box shadows` on some div's
+- put `border-radius` on all div's
+- put `borders` on divs
+
+```
+|
+|________ header div ___________
+
+|
+|_________ hero div ____________
+
+   |__feature__| |__feature__|
+     
+|
+|_________ footer div ___________
