@@ -264,3 +264,4 @@ Todo's
 # Session 11
 
 - http://www.cssmatic.com/box-shadow
+- `border-radius: 10px;`
