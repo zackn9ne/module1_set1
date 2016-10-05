@@ -325,6 +325,7 @@ _don't let this be you_
 
 - make a junky looking `ul` with `li` items into stylish menu bar
 - wrap the `ul` and `li` in a `nav` element
+- <img src="https://media.giphy.com/media/f4cH0FXbUmogg/giphy.gif">
 - clear out your current repo into `level1` folder
 - work on this in a clean workspace in your repo
 - in class example was http://jsbin.com/howezagunu/1/edit?html,css,output
