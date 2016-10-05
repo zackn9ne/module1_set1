@@ -311,6 +311,10 @@ _don't let this be you_
 
 ** in class **
 
+- HTML 5 tags review
+
+<img src="http://www.w3schools.com/html/img_sem_elements.gif">
+
 - Links, simple example, img background example
 
 - Lists, page 330
