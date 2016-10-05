@@ -290,6 +290,7 @@ Todo's
      
 |
 |_________ footer div ___________
+```
 
 # Session 12
 
