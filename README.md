@@ -299,3 +299,11 @@ Todo's
 <img src="https://media.giphy.com/media/Q2uIMfIVgdAek/giphy.gif">
 
 _don't let this be you_
+
+** in class **
+
+- Links, simple example, img background example
+
+- Lists, page 330
+
+- Tables, page 330
