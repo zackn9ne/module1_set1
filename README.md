@@ -295,5 +295,7 @@ Todo's
 # Session 12
 
 ** homework reviews**
+
 <img src="https://media.giphy.com/media/Q2uIMfIVgdAek/giphy.gif">
+
 _don't let this be you_
