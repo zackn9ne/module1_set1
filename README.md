@@ -320,3 +320,11 @@ _don't let this be you_
 - Lists, page 330
 
 - Tables, page 330
+
+** homework **
+
+- make a junky looking `ul` with `li` items into stylish menu bar
+- wrap the `ul` and `li` in a `nav` element
+- clear out your current repo into `level1` folder
+- work on this in a clean workspace in your repo
+- `k thx bye`
