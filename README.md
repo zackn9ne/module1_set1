@@ -245,6 +245,15 @@ Todo's
 
 ** mini git workflow **
 
+`if pull request`
+
+- go on `github.com`
+- accept `pull request`
+- `git pull`
+
+`if pull requests are all fixed`
+
+- do `coding`
 - `git add -A .`
 - `git commit -m "commit message"`
 - `git push origin master`
