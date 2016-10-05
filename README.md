@@ -327,4 +327,5 @@ _don't let this be you_
 - wrap the `ul` and `li` in a `nav` element
 - clear out your current repo into `level1` folder
 - work on this in a clean workspace in your repo
+- in class example was http://jsbin.com/howezagunu/1/edit?html,css,output
 - `k thx bye`
