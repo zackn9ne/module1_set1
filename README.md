@@ -362,3 +362,10 @@ bottom margin is 75px
 left margin is 100px
 ```
 
+_ homework _
+```
+    .row {
+        width: 1000px;
+        margin: 0 auto;
+    }    
+```
