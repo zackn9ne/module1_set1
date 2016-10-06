@@ -345,8 +345,8 @@ all four margins are 25px
 ```
 If the margin property has two values:
 
-margin: 25px auto;
-top and bottom margins are 25px
+margin: 0 auto;
+top and bottom margins are 0
 right and left margins are auto
 ```
 
