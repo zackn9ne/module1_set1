@@ -375,4 +375,5 @@ _ homework _
 1. just setup the rows like how http://nypl.org
 2. do child and child and child elements inside of each row
 3. try to put in the same content _kind of_ of how `nypl.org` has it on their homepage
-
+4. move your old work out of your repo and put this in the root of your repo
+5. I want lots of div's and child divs
