@@ -334,3 +334,31 @@ _don't let this be you_
 # Session 'lucky' 13
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Boxmodell-detail.png">
+
+```
+If the margin property has one value:
+
+margin: 25px;
+all four margins are 25px
+```
+
+```
+If the margin property has two values:
+
+margin: 25px auto;
+top and bottom margins are 25px
+right and left margins are auto
+```
+
+_this one is dead simple you should know it_
+
+```
+If the margin property has four values:
+
+margin: 25px 50px 75px 100px;
+top margin is 25px
+right margin is 50px
+bottom margin is 75px
+left margin is 100px
+```
+
