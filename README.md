@@ -330,3 +330,7 @@ _don't let this be you_
 - work on this in a clean workspace in your repo
 - in class example was http://jsbin.com/howezagunu/1/edit?html,css,output
 - `k thx bye`
+
+# Session 'lucky' 13
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Boxmodell-detail.png">
