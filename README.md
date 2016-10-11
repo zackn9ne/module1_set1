@@ -377,3 +377,43 @@ _homework_
 3. try to put in the same content _kind of_ of how `nypl.org` has it on their homepage
 4. move your old work out of your repo and put this in the root of your repo
 5. I want lots of div's and child divs
+
+# class fourteen (14)
+
+_homework_
+
+- loosely base a site on: http://www.seattle.gov/visiting-seattle
+- `header` should be `background: #0035A5`
+- `footer` has   `background: #D7D7D7;`
+- 
+
+```
+# 3 main areas
+1. header (with following things in it)
+2. div#content
+3. footer
+
+html
+	head
+	title
+
+body
+	header
+		div#logo
+		ul.nav
+
+	div#content
+		h1
+		section.featureWrapper
+			img src="???"
+			img src="???"
+		
+		div#mainContent
+			div#container
+				h3
+				p
+				p
+				p
+
+	footer
+```
