@@ -383,8 +383,8 @@ _homework_
 _homework_
 
 - loosely base a site on: http://www.seattle.gov/visiting-seattle
-- `header` should be `background: #0035A5`
-- `footer` has   `background: #D7D7D7;`
+- `header` should be `background: #0035A5` the blue
+- `footer` has   `background: #D7D7D7;` the gray
 
 ```
 # 3 main areas
