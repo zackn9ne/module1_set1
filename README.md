@@ -428,7 +428,9 @@ _homework_
 3. wire up a `js/app.js` file
 4. dont worry about `css file` _seriously, just dont'_
 5. go with the most `basic` `js function` I can think of which is
-6. ```
+6. 
+
+```
 function myFunction() {
     document.write("Hello World!");
 }
