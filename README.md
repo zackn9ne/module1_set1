@@ -427,11 +427,23 @@ _homework_
 2. wire up a `js` folder
 3. wire up a `js/app.js` file
 4. dont worry about `css file` _seriously, just dont'_
-5. go with the most `basic` `js function` I can think of which is
+5. go with the most `basic` `js method` I can think of which is
 6. 
 
 ```
-function myFunction() {
     document.write("Hello World!");
-}
+
+```
+
+7. optional: add a `JS` alert
+8. attempt this 100% you must attempt:
+
+```
+// post DOM loaded
+document.addEventListener('DOMContentLoaded', function(){ 
+
+// put code that waits for content
+
+
+}, false);
 ```
