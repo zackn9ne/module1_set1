@@ -416,3 +416,7 @@ body
 
 	footer
 ```
+
+# class 15 intro to JS
+
+`DOMContentLoaded` https://codepen.io/LukeAskew/pen/LnJsE
