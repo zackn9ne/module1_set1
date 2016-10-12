@@ -420,3 +420,11 @@ body
 # class 15 intro to JS
 
 `DOMContentLoaded` https://codepen.io/LukeAskew/pen/LnJsE
+
+_homework_
+
+1. wire up a `index.html`
+2. wire up a `js` folder
+3. wire up a `js/app.js` file
+4. dont worry about `css file` _seriously, just dont'_
+5.
