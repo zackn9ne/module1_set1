@@ -442,7 +442,7 @@ _homework_
 // post DOM loaded
 document.addEventListener('DOMContentLoaded', function(){ 
 
-// put code that waits for content
+// put code that waits for DOM
 
 
 }, false);
