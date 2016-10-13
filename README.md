@@ -447,3 +447,7 @@ document.addEventListener('DOMContentLoaded', function(){
 
 }, false);
 ```
+
+# class 16 JS Episode 2
+
+- How to add `CSS` to an element with `JS` http://www.w3schools.com/jsref/dom_obj_style.asp
