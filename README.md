@@ -429,7 +429,7 @@ study this `index.html` found here to learn how to wire up your `app.js` file ht
 2. wire up a `js` folder
 3. wire up a `js/app.js` file
 4. dont worry about `css file` _seriously, just dont'_
-5. go with the most `basic` `js method` I can think of which is
+5. put all the following `JS` in your _brand new_ `js/app.js` file. Go with the most `basic` `js method` I can think of which is:
 6. 
 
 ```
