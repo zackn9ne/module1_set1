@@ -423,6 +423,8 @@ body
 
 _homework_
 
+study this `index.html` found here to learn how to wire up your `app.js` file https://github.com/zackn9ne/module1_set1/tree/master/js_ex1
+
 1. wire up a `index.html`
 2. wire up a `js` folder
 3. wire up a `js/app.js` file
