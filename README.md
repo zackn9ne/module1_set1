@@ -452,14 +452,17 @@ document.addEventListener('DOMContentLoaded', function(){
 
 # class 16 JS Episode 2
 
-- How to add `CSS` to an element with `JS` http://www.w3schools.com/jsref/dom_obj_style.asp
+- How to add `CSS` to an element with `JS` http://www.w3schools.com/jsref/dom_obj_style.asp, the thing about this page is that if you scroll to the bottom is where all the cool things you can do via `JS` to your `CSS` are so try some.
 
 _homework_
 
 - If you didn't do `15` you better do it
-- If you _did_ do `15` go ahead and use the `.style` method to add `css` to a `DOM Element` via `JS`, link is above it's really not that hard
+- If you _did_ do `15`: 
+
+a. use `document.getElementByID`
+b. use `.style` **method** in order to apply some `css` to the element you targeted in `a`
 - Heres what you need to do:
 
 ```
-document.getElementById("yourElement").style.SOMETHING("somevalue");
+document.getElementById('yourElement').style.SOMETHING = 'somevalue';
 ```
