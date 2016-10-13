@@ -458,3 +458,8 @@ _homework_
 
 - If you didn't do `15` you better do it
 - If you _did_ do `15` go ahead and use the `.style` method to add `css` to a `DOM Element` via `JS`, link is above it's really not that hard
+- Heres what you need to do:
+
+```
+document.getElementById("yourElement").style.SOMETHING("somevalue");
+```
