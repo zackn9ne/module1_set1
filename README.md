@@ -438,7 +438,7 @@ study this `index.html` found here to learn how to wire up your `app.js` file ht
 ```
 
 7. optional: add a `JS` alert
-8. **DOM Ready** is awesome, attempt this 100% you must attempt:
+8. **DOM Ready** is awesome, attempt this 100% you must attempt. Info on DOM Ready https://developer.mozilla.org/en-US/docs/Web/Events/DOMContentLoaded:
 
 ```
 // post DOM loaded
