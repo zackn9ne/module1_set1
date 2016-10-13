@@ -459,8 +459,11 @@ _homework_
 - If you didn't do `15` you better do it
 - If you _did_ do `15`: 
 
+
 a. use `document.getElementByID`
+
 b. use `.style` **method** in order to apply some `css` to the element you targeted in `a`
+
 - Heres what you need to do:
 
 ```
