@@ -436,7 +436,7 @@ _homework_
 ```
 
 7. optional: add a `JS` alert
-8. attempt this 100% you must attempt:
+8. **DOM Ready** is awesome, attempt this 100% you must attempt:
 
 ```
 // post DOM loaded
