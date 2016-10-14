@@ -469,3 +469,8 @@ b. use `.style` **method** in order to apply some `css` to the element you targe
 ```
 document.getElementById('yourElement').style.SOMETHING = 'somevalue';
 ```
+
+# class 17 JS Episode 3
+
+- 'var dataTypesPageNumber = 62;'
+- `var operatorsPageNumber = 75;`
