@@ -474,3 +474,15 @@ document.getElementById('yourElement').style.SOMETHING = 'somevalue';
 
 - `var dataTypesPageNumber = 62;`
 - `var operatorsPageNumber = 75;`
+
+_assignment 17_
+
+- make an `assignment_17` folder
+- make an `assignment_17/js` folder
+- make an `assignment_17/index.html` file
+- make an `assignment_17/js/app.js` file
+- wire all these together
+- do some js
+- I want to see 1. `string variable` 2. `numeric variable`
+- `document.write( yourVariable1 )`
+- `documentwrite( yourNumericVariable )`
