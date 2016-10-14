@@ -4,9 +4,9 @@
 \::\| \| \ \\:::_ \ \\:::_ \ \\:\ \:\ \\:\ \    \::::_\/_  \_::\ \      
  \:.      \ \\:\ \ \ \\:\ \ \ \\:\ \:\ \\:\ \    \:\/___/\   \::\ \     
   \:.\-/\  \ \\:\ \ \ \\:\ \ \ \\:\ \:\ \\:\ \____\::___\/_  _\: \ \__  
-   \. \  \  \ \\:\_\ \ \\:\/.:| |\:\_\:\ \\:\/___/\\:\____/\/__\: \__/\ 
-    \__\/ \__\/ \_____\/ \____/_/ \_____\/ \_____\/ \_____\/\________\/ 
-                                                                        
+   \. \  \  \ \\:\_\ \ \\:\/.:| |\:\_\:\ \\:\/___/\\:\____/\/__\: \__/\
+    \__\/ \__\/ \_____\/ \____/_/ \_____\/ \_____\/ \_____\/\________\/
+
 ```
 
 Module 1's online coursework suppliment
@@ -21,8 +21,8 @@ _day one_
 
 1. [join GitHub](http://github.com/join)
 2. [brew homepage](http://brew.sh/)
-2. 
- [setup brew](https://coolestguidesontheplanet.com/installing-homebrew-on-os-x-el-capitan-10-11-package-manager-for-unix-apps/) 
+2.
+ [setup brew](https://coolestguidesontheplanet.com/installing-homebrew-on-os-x-el-capitan-10-11-package-manager-for-unix-apps/)
 
  * `xcode-select --install`
 
@@ -70,7 +70,7 @@ _day one_
     <title>title</title>
   </head>
   <body>
-  
+
   </body>
 </html>
 ```
@@ -88,25 +88,25 @@ _day one_
     <p>Favourite Phrase
       <textarea>words yo...</textarea>
     </p>
-      
+
     <p>Password
       <input type="password">
     </p>
 
      <p>
-     Who said that 
+     Who said that
       <input>
     </p>
-    
+
     <p>
-      Is famous? 
+      Is famous?
       <input type="checkbox">
     </p>
-    
+
 <p>Please select your favorite genre:
 
 <br />
- 
+
   You have got to give radio buttons a "name" field
   <p>
 
@@ -115,7 +115,7 @@ _day one_
 <input type="radio"/>Pop
 
 <input type="radio"/>Timmy
-  
+
 <input type="radio"/>Lassie
     <p>
       Which Crips member are you?
@@ -213,7 +213,7 @@ Homework
 - make your own website
 - **always start with** a `index.html` page and additional `something.html` and more if you feel comfortable
 - make a `image` folder and `download` about 7 (seven) images off the web to use there a handfull of images, so keep them in _all in_ there
-- make `relative` links to the images 
+- make `relative` links to the images
 - make sure you make the `navbar` **important** using `ul` `li` and `a tags` I don't care if it just looks like a bulleted list of links, I can show you how that gets _stylized_ in order to make look right later, just do the basics now.
 - make `relative` links to the other `html` files using a `navbar`
 - **use layout on page** `432` of the book
@@ -223,7 +223,7 @@ How do I turn this in?
 - go to your homework repo
 - `click` on `upload files`
 - **drag** the folder from your desktop to this window, then click `upload`
-- then it will show the `foldername` in your repo all nice and you can click around in there to verify 
+- then it will show the `foldername` in your repo all nice and you can click around in there to verify
 
 # Lesson 8
 
@@ -240,7 +240,7 @@ Todo's
 
 - Homework:
 - add a css file to your `mini_site`
-- `source` that file in your header 
+- `source` that file in your header
 - (browse that codebase from class here)[https://github.com/zackn9ne/module1_set1/tree/master/temp_proj]
 
 ** mini git workflow **
@@ -296,7 +296,7 @@ Todo's
 |_________ hero div ____________
 
    |__feature__| |__feature__|
-     
+
 |
 |_________ footer div ___________
 ```
@@ -406,7 +406,7 @@ body
 		section.featureWrapper
 			img src="???"
 			img src="???"
-		
+
 		div#mainContent
 			div#container
 				h3
@@ -430,7 +430,7 @@ study this `index.html` found here to learn how to wire up your `app.js` file ht
 3. wire up a `js/app.js` file
 4. dont worry about `css file` _seriously, just dont'_
 5. put all the following `JS` in your _brand new_ `js/app.js` file. Go with the most `basic` `js method` I can think of which is:
-6. 
+6.
 
 ```
     document.write("Hello World!");
@@ -442,7 +442,7 @@ study this `index.html` found here to learn how to wire up your `app.js` file ht
 
 ```
 // post DOM loaded
-document.addEventListener('DOMContentLoaded', function(){ 
+document.addEventListener('DOMContentLoaded', function(){
 
 // put code that waits for DOM
 
@@ -457,7 +457,7 @@ document.addEventListener('DOMContentLoaded', function(){
 _homework_
 
 - If you didn't do `15` you better do it
-- If you _did_ do `15`: 
+- If you _did_ do `15`:
 
 
 a. use `document.getElementByID`
@@ -476,6 +476,8 @@ In class we covered `Data Types` and `Operators` the pages numbers are in `JS Sy
 
 - `var dataTypesPageNumber = 62;`
 - `var operatorsPageNumber = 75;`
+
+Here are the basics we went over in class, (found in this repo), here is the link https://github.com/zackn9ne/module1_set1/tree/master/session_17
 
 _assignment 17_
 
