@@ -472,6 +472,8 @@ document.getElementById('yourElement').style.SOMETHING = 'somevalue';
 
 # class 17 JS Episode 3
 
+In class we covered `Data Types` and `Operators` the pages numbers are in `JS Syntax` below as a fun joke:
+
 - `var dataTypesPageNumber = 62;`
 - `var operatorsPageNumber = 75;`
 
@@ -484,5 +486,5 @@ _assignment 17_
 - wire all these together
 - do some js
 - I want to see 1. `string variable` 2. `numeric variable`
-- `document.write( yourVariable1 )`
-- `documentwrite( yourNumericVariable )`
+- `document.write( yourVariable )`
+- `document.write( yourNumericVariable )`
