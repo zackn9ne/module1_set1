@@ -472,5 +472,5 @@ document.getElementById('yourElement').style.SOMETHING = 'somevalue';
 
 # class 17 JS Episode 3
 
-- 'var dataTypesPageNumber = 62;'
+- `var dataTypesPageNumber = 62;`
 - `var operatorsPageNumber = 75;`
