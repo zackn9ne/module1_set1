@@ -504,7 +504,7 @@ _assignment 17_
 - Functions pg. 96 (function dec's v function expressions
 
 - Objects 100 
-
+	- https://newsapi.org/buzzfeed-api
 - Boomerang back to _Operators_ pg. 75 (right column)
 
 _assignment 18_
