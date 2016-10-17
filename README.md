@@ -505,6 +505,7 @@ _assignment 17_
 
 - Objects 100 
 	- https://newsapi.org/buzzfeed-api
+	- https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa
 - Boomerang back to _Operators_ pg. 75 (right column)
 
 _assignment 18_
