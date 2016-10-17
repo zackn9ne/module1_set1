@@ -499,6 +499,7 @@ _assignment 17_
 - Array's pg. 70
 
 - Functions pg. 86
+	- http://stackoverflow.com/questions/507138/how-do-i-add-a-class-to-a-given-element
 
 - Functions pg. 96 (function dec's v function expressions
 
