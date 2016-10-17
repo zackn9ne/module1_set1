@@ -492,15 +492,19 @@ _assignment 17_
 - `document.write( yourNumericVariable )`
 
 
-_class 18_
+#class 18
 
-- Data Types
+- Data Types pg. 62
 
-- Functions
+- Array's pg. 70
 
-- Objects
+- Functions pg. 86
 
-- Boomerang back to _Operators_
+- Functions pg. 96 (function dec's v function expressions
+
+- Objects 100 
+
+- Boomerang back to _Operators_ pg. 75 (right column)
 
 _assignment 18_
 
