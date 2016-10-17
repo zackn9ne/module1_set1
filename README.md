@@ -490,3 +490,18 @@ _assignment 17_
 - I want to see 1. `string variable` 2. `numeric variable`
 - `document.write( yourVariable )`
 - `document.write( yourNumericVariable )`
+
+
+_class 18_
+
+- Data Types
+
+- Functions
+
+- Objects
+
+- Boomerang back to _Operators_
+
+_assignment 18_
+
+- `JS` Data Assignment
