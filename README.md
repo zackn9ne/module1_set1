@@ -503,7 +503,7 @@ _assignment 17_
 
 - Functions pg. 96 (function dec's v function expressions
 
-- Objects 100 
+- Objects 100
 	- https://newsapi.org/buzzfeed-api
 	- https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa
 - Boomerang back to _Operators_ pg. 75 (right column)
@@ -536,7 +536,10 @@ _assignment 18_
 var cameras = new Array('sony','panasonic','canon','fuji','polariod')
 
 // loop
-// start at; continue as long as; do each time;
+// for (start at; continue as long as; do each time) {
+      run this code for each time;
+   }
+
 for ( i = 0; i < cameras.length; i++ ) {
 	console.log ( cameras[i] );
 }
@@ -544,7 +547,14 @@ for ( i = 0; i < cameras.length; i++ ) {
 
 document.addEventListener('DOMContentLoaded', function(){
 
-    document.getElementById('cameras').innerHTML = cameras;
+       document.getElementById('cameras').innerHTML = cameras;
 
-});
+    }
+);
 ```
+
+_assignment 19_
+
+- make a function
+- make that a named `function` using the syntax on pg. 90
+- wait for `DOM READY` to call the `function` using the syntax on pg. 91
