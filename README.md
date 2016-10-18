@@ -510,7 +510,9 @@ _assignment 17_
 
 _assignment 18_
 
-- `JS` Data Assignment
+- `JS` Data Assignment:
+
+- use `getElementById` in order to `.innerHTML` an `array` to your webpage
 
 #class 19
 
@@ -522,4 +524,6 @@ _assignment 18_
 
 - Time Permitting Math Dates Date Formats and Methods
 
-- <img src="http://s.quickmeme.com/img/a1/a1563406673bc7b102e3609d5e017fa5605a4bea01752b024f58c25a36c50ae9.jpg"> Midterm on Thursday, during the LAB
+- <img src="http://s.quickmeme.com/img/a1/a1563406673bc7b102e3609d5e017fa5605a4bea01752b024f58c25a36c50ae9.jpg">
+
+- Midterm on Thursday, during the LAB
