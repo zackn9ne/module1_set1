@@ -518,6 +518,8 @@ _assignment 18_
 
 - Homework `review` should have been _very_ ez
 
+- Loops: http://www.w3schools.com/js/js_loop_for.asp
+
 - `JS String Methods` http://www.w3schools.com/js/js_string_methods.asp
 
 - Scope, Objects, Functions page 86 andd taakee it all the way through
@@ -527,3 +529,4 @@ _assignment 18_
 - <img src="http://s.quickmeme.com/img/a1/a1563406673bc7b102e3609d5e017fa5605a4bea01752b024f58c25a36c50ae9.jpg">
 
 - Midterm on Thursday, during the LAB
+
