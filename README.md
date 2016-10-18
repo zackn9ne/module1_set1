@@ -499,11 +499,13 @@ _assignment 17_
 - Array's pg. 70
 
 - Functions pg. 86
+	- http://stackoverflow.com/questions/507138/how-do-i-add-a-class-to-a-given-element
 
 - Functions pg. 96 (function dec's v function expressions
 
 - Objects 100 
-
+	- https://newsapi.org/buzzfeed-api
+	- https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa
 - Boomerang back to _Operators_ pg. 75 (right column)
 
 _assignment 18_
