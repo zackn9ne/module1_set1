@@ -530,3 +530,21 @@ _assignment 18_
 
 - Midterm on Thursday, during the LAB
 
+- Loops in class overview
+
+```
+var cameras = new Array('sony','panasonic','canon','fuji','polariod')
+
+// loop
+// start at; continue as long as; do each time;
+for ( i = 0; i < cameras.length; i++ ) {
+	console.log ( cameras[i] );
+}
+
+
+document.addEventListener('DOMContentLoaded', function(){
+
+    document.getElementById('cameras').innerHTML = cameras;
+
+});
+```
