@@ -509,3 +509,15 @@ _assignment 17_
 _assignment 18_
 
 - `JS` Data Assignment
+
+#class 19
+
+- Homework `review` should have been _very_ ez
+
+- `JS String Methods` http://www.w3schools.com/js/js_string_methods.asp
+
+- Scope, Objects, Functions page 86 andd taakee it all the way through
+
+- Time Permitting Math Dates Date Formats and Methods
+
+- <img src="http://s.quickmeme.com/img/a1/a1563406673bc7b102e3609d5e017fa5605a4bea01752b024f58c25a36c50ae9.jpg"> Midterm on Thursday, during the LAB
