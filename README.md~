@@ -561,17 +561,7 @@ _assignment 19_
 
 #class 20
 
-- `session_20/js/` see above for code
+- `session_20/js/`
 - `events` pg. 244
 - `events` on MDN https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener
 - `events` pg. 246, a pretty decent list of the `type` of `events` you can `bind to`
-
-_assignment 20_
-
-- write a `named function` that does a `console.log` some `string of your choice`
-- write a `named function` with a `parameter` that does a `console.log` some `string of your choice` and accepts that parameter
-- once you have tested and called those functions `functionName();` and `functionName('clever string');` in your code...
-- _if you can handle this.. then..._
-- go ahead and attach an `addEventListener` to trigger that function based on `click` of a `DOM Element`
-- if not study functions with and without parameters way way _way_ **more**
-- see the code for `session_20/js/app.js` above and read the book
