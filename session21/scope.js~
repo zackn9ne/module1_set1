@@ -1,0 +1,12 @@
+;; This buffer is for text that is not saved, and for Lisp evaluation.
+;; To create a file, visit it with C-x C-f and enter text in its buffer.
+
+var greeting = (function() {
+			var d = new Date();
+			var time = d.getHours();
+			var greeting = greetUser();
+
+			function greetUser() {
+			var msg = 'hello world';
+			var msg2 = 'msg';
+			return = msg2;

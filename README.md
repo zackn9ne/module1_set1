@@ -575,3 +575,41 @@ _assignment 20_
 - go ahead and attach an `addEventListener` to trigger that function based on `click` of a `DOM Element`
 - if not study functions with and without parameters way way _way_ **more**
 - see the code for `session_20/js/app.js` above and read the book
+
+#class 21
+
+- callout 1. `functions` are `objects` in JS
+- we watched https://www.youtube.com/watch?v=oB5rH_9bqAI
+- `scope` pg. 93
+- `function declarations` vs `function expressions`
+- `date` methods pg. 137
+
+_assignment 21_
+
+- do homework you missed
+- the midterm
+- make a website
+- use `div's`
+- use a `css file`
+- use a `js` file
+- make your directory structure `the right way`
+- call the folder `midterm` and put in your `repo`
+- bind a `yourElement.addEventListener` click event to a `DOM Element` ie `<button>` `<div id=#something>` `<img>` to run a `function`
+- style that `DOM Element` with `css` so its not _ugly_
+- that `.addEventListener` click event can do many things so choose one from the `JS` you already know that manipulates `html` or `css` somehow
+- some good ones to try are
+- add a `css class` to an existing `id`
+- do a `js` `.innerHTML` in order to append `+=` to a div
+- ** one last thing **
+- create an `array` in your `js` and `loop through it`, `.innerHTML` the result of that loop and make each item end up being an `li` item
+
+- answer these questions
+1. what is the difference between a `function` and a `function expression`, why would you use one or the other
+2. what is the `DOM Style` syntax in `JS` to apply a `css` style to an element
+3. what gets `hoisted` in `JS`?
+4. tell me about `document.addEventListener("DOMContentLoaded", function(event) {` and `window.onload`
+5. tell me what color this element would be if the following `css` was in the `css` file
+```
+div#red { color: red; }
+div#red { color: blue; }
+```
