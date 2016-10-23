@@ -588,7 +588,8 @@ _assignment 21_
 
 - do homework you missed
 
-- the midterm
+_the midterm_
+
 - make a website
 - use `div's`
 - use a `css file`
