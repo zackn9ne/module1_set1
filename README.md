@@ -587,6 +587,7 @@ _assignment 20_
 _assignment 21_
 
 - do homework you missed
+
 - the midterm
 - make a website
 - use `div's`
