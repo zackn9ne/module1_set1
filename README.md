@@ -616,3 +616,15 @@ div#red { color: red; }
 div#red { color: blue; }
 ```
 
+#class 22
+
+- bower install bootstrap
+- bower install jquery
+- wire up these two features
+- use some bootstrap template `<body>` code
+
+_assignment 22_
+
+- connect a `bootstrap` and `jquery` to an `index.html` file
+- `in class` assignment will follow with trying out `jQuery`
+- `read` the chapter on `jQuery`
