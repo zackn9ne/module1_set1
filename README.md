@@ -620,6 +620,7 @@ div#red { color: blue; }
 
 - bower install bootstrap
 - bower install jquery
+- or just use the `cdn`
 - wire up these two features
 - use some bootstrap template `<body>` code
 
@@ -628,3 +629,30 @@ _assignment 22_
 - connect a `bootstrap` and `jquery` to an `index.html` file
 - `in class` assignment will follow with trying out `jQuery`
 - `read` the chapter on `jQuery`
+- `watch this video` https://www.youtube.com/watch?v=sBzRwzY7G-k&index=2&list=LL_X28oF7sfrfciJE1rOxI3w
+
+#class 23
+- ```
+$(function() {
+});
+```
+- Events p 327
+- 
+```
+preventOefau1t () Prevents the default (e.g., submitting a form)
+stopPropagation() Stops the event bubbling up to ancestors`
+```
+
+- Events `syntax` p 330
+- Appearances
+- Hide/Show p 332
+
+- Transitions: Fade, Slide [meh]
+- Animate [meh]
+- Actions
+- Stopping
+- Callback - Chaining p 334 `animate something and when its done run a callback function`
+
+
+- Working with forms p344
+
