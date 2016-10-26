@@ -656,3 +656,57 @@ stopPropagation() Stops the event bubbling up to ancestors`
 
 - Working with forms p344
 
+#class 24
+- `JS bubbling` and `stopPropagation`
+```
+document.addEventListener("DOMContentLoaded", function(event) {
+
+  var usa = document.getElementById('usa')  
+  var la = document.getElementById('la')
+  var greetLA = function(ev) {
+     
+        console.log ('good day LA'); 
+        ev.stopPropagation();
+
+  }
+  var greetUSA = function(ev) { 
+        console.log ('usa');                           
+        ev.stopPropagation();
+
+                              }
+
+  la.addEventListener('click', greetLA, false);
+  usa.addEventListener('click', greetUSA, false);
+
+});
+```
+- `jQuery` `.each()`
+
+```
+$(function() {
+
+var movies = [ "the tick", "batman", "tony stark", "mr. doubtfire", "hunger games" ];
+var buzz = {
+      "author": "Rob Stott",
+      "title": "People Complained That This Ad For Lamb Is Racist Toward White People",
+      "description": "\"A complete disgrace.\"",
+      "url": "https://www.buzzfeed.com/robstott/people-complained-that-this-ad-for-lamb-is-racist-against-wh",
+      "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2016-10/26/10/campaign_images/buzzfeed-prod-fastlane03/people-complained-that-this-ad-for-lamb-is-racist-2-3145-1477490745-0_dblbig.jpg",
+      "publishedAt": "2016-10-26T00:02:13Z"
+    }
+
+$.each( buzz, function( key, value ){
+    console.log(key + '^^^^^^_' + value);
+    $('div.news').append('<li>' + key + ': '+ value + '</li>');
+});
+ 
+  
+  });
+```
+
+- <img src="http://i.stack.imgur.com/nzc2C.png">
+
+
+_homework 24_
+- `$.each()` something
+- watch this video, especially up until `3:16` `https://www.youtube.com/watch?v=sBzRwzY7G-k&index=3&list=LL_X28oF7sfrfciJE1rOxI3w` 

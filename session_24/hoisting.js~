@@ -1,0 +1,4 @@
+var movie;
+
+var movie = 'birdman';
+console.log(movie);
