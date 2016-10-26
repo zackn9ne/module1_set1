@@ -632,7 +632,8 @@ _assignment 22_
 - `watch this video` https://www.youtube.com/watch?v=sBzRwzY7G-k&index=2&list=LL_X28oF7sfrfciJE1rOxI3w
 
 #class 23
-- ```
+-
+```
 $(function() {
 });
 ```
