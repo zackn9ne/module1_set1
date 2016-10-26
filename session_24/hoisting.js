@@ -8,10 +8,12 @@ var favMovie = function(x){
 favMovie(movie);
 
 
+
 $(function() {
   //wait for the dom elemenst
-  $('li').each(function()
+    $('li').each(function() {
      console.log('i found a li')
+    }
+)
+});
 
-});
-});

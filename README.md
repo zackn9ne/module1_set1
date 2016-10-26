@@ -11,7 +11,7 @@
 
 Module 1's online coursework suppliment
 
-_day one_
+# class 1/2
 # Pure Basics
 1. [internet infographic](http://kaiserthesage.com/the-internet/)
 2. [origin of programming languages](http://www.veracode.com/sites/default/files/wp-content/uploads/2013/05/History-Of-Programming-Languages-Veracode.jpg)
@@ -79,7 +79,7 @@ _day one_
 5. paste in the `boilerplate`
 6. profit
 
-# day 3
+# class 3
 - [Lists being used in unconventional ways](http://www.w3schools.com/bootstrap/bootstrap_navbar.asp)
 - Homework is to clean up this form and include it somewhere in your `index.html` file
 ```
@@ -136,7 +136,7 @@ _day one_
 </form>
 ```
 
-# Lesson 4
+# Class 4
 
 What happened in class Review
 
@@ -154,7 +154,7 @@ Homework:
 Homework part two (2):
 - take a screen shot of you succesfully `web instpecting` the image found on a regular site, like maybe, [ "nytimes", "nypost", "espn", or something like that]
 
-# Lesson 6
+# Class 6
 Homework is to find images online, `hack` the width using the method below so that way you can use an image you found even if its too large.
 
 Combine various `html` elements, such as `ul` `li` `p` `span` `h1` & `div`'s in order to make your image mellee. Use at least 10 (ten) images and use `all` of the `html` elements above, keeping in mind if they are `block` or `inline`.
@@ -177,7 +177,7 @@ Here are the links to the `block` v `inline`
   </div>
   </div>
 ```
-# Lesson 7
+# Class 7
 
 ```
 <!DOCTYPE html>
@@ -225,7 +225,7 @@ How do I turn this in?
 - **drag** the folder from your desktop to this window, then click `upload`
 - then it will show the `foldername` in your repo all nice and you can click around in there to verify
 
-# Lesson 8
+# Class 8
 
 - Objective: add more things to your `mini_site`
 - Objective: use `github` the right way
@@ -234,7 +234,7 @@ Todo's
 1. add more things to site
 2. Make a `git commit` and `push` `master branch` to the `git origin` which is your online repo
 
-# Lesson 9
+# Class 9
 
 - Intro to css
 
@@ -258,7 +258,7 @@ Todo's
 - `git commit -m "commit message"`
 - `git push origin master`
 
-# Session 10
+# Class 10
 
 - https://snook.ca/archives/html_and_css/vm-vh-units
 - http://apex.sh/ping/
@@ -270,7 +270,7 @@ Todo's
 - utilise font family on page `273`, use a font stack from there on one or all of your elements, probably start with the `body` and it will `cascade` down.
 - or if your feeling fun you can use a commonly accepted font stack from here http://www.cssfontstack.com/
 
-# Session 11
+# Class 11
 
 - http://www.cssmatic.com/box-shadow
 - `border-radius: 10px;`
@@ -301,7 +301,7 @@ Todo's
 |_________ footer div ___________
 ```
 
-# Session 12
+# Class 12
 
 ** homework reviews**
 
@@ -331,7 +331,7 @@ _don't let this be you_
 - in class example was http://jsbin.com/howezagunu/1/edit?html,css,output
 - `k thx bye`
 
-# Session 'lucky' 13
+# Class 'lucky' 13
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Boxmodell-detail.png">
 
@@ -632,11 +632,12 @@ _assignment 22_
 - `watch this video` https://www.youtube.com/watch?v=sBzRwzY7G-k&index=2&list=LL_X28oF7sfrfciJE1rOxI3w
 
 #class 23
--
+- `DocumentReadyFunction` for `jQuery`
 ```
 $(function() {
 });
 ```
+
 - Events p 327
 - 
 ```
@@ -656,9 +657,12 @@ stopPropagation() Stops the event bubbling up to ancestors`
 
 
 - Working with forms p344
+_homework 23_
+- no homework `XD`
 
 #class 24
 - `JS bubbling` and `stopPropagation`
+
 ```
 document.addEventListener("DOMContentLoaded", function(event) {
 
@@ -681,6 +685,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
 
 });
 ```
+
 - `jQuery` `.each()`
 
 ```
@@ -705,9 +710,11 @@ $.each( buzz, function( key, value ){
   });
 ```
 
+- `key` `value` pairs
 - <img src="http://i.stack.imgur.com/nzc2C.png">
 
 
+
 _homework 24_
-- `$.each()` something
+- `$.each()` a series of repetitive `HTML DOM Elements`, and `console.log` a statement each time the element is found
 - watch this video, especially up until `3:16` `https://www.youtube.com/watch?v=sBzRwzY7G-k&index=3&list=LL_X28oF7sfrfciJE1rOxI3w` 
