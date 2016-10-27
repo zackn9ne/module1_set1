@@ -732,3 +732,13 @@ _homework 24_
 - dimensions
 
 LAB 23: jQuery with CSS assignment
+
+_homework 25_
+
+- this class lesson is called `jQuery with CSS` so let's go ahead and `.css` some of the elements you put in your mini-site (go to page 322 in the book and do what they do)
+
+- the `homework` can just have a bunch of html elements with ID's and such in order to target them and do `jQuery` actions on them
+
+- at the minimium have when the page loads have a bunch of `css styles` come in via `jQuery` (go to page 322 in the book and do what they do)
+
+- watch this video, especially up until `3:16` `https://www.youtube.com/watch?v=sBzRwzY7G-k&index=3&list=LL_X28oF7sfrfciJE1rOxI3w` 
