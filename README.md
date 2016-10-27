@@ -719,7 +719,7 @@ _homework 24_
 - `$.each()` a series of repetitive `HTML DOM Elements`, and `console.log` a statement each time the element is found
 - watch this video, especially up until `3:16` `https://www.youtube.com/watch?v=sBzRwzY7G-k&index=3&list=LL_X28oF7sfrfciJE1rOxI3w` 
 
-# class 
+# class 25
 
 - page 322 getting and setting css values
 
