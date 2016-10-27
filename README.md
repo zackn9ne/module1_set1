@@ -718,3 +718,17 @@ $.each( buzz, function( key, value ){
 _homework 24_
 - `$.each()` a series of repetitive `HTML DOM Elements`, and `console.log` a statement each time the element is found
 - watch this video, especially up until `3:16` `https://www.youtube.com/watch?v=sBzRwzY7G-k&index=3&list=LL_X28oF7sfrfciJE1rOxI3w` 
+
+# class 
+
+- page 322 getting and setting css values
+
+- page 327 some `this keyword`  stuff
+
+- jQuery fundamentals with CSS
+
+- jQuery and CSS working together and trouble shooting
+
+- dimensions
+
+LAB 23: jQuery with CSS assignment
