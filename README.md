@@ -742,3 +742,17 @@ _homework 25_
 - at the minimium have when the page loads have a bunch of `css styles` come in via `jQuery` (go to page 322 in the book and do what they do)
 
 - watch this video, especially up until `3:16` `https://www.youtube.com/watch?v=sBzRwzY7G-k&index=3&list=LL_X28oF7sfrfciJE1rOxI3w` 
+
+_homework 25_
+- final project ideas/intro
+
+- scrape an `API` and `style` the data as you want, using your _own_ layout and `CSS`
+- you will have to use a `loop` to do this in order to `loop` through the `JSON` aka `JS Objects` the `API` returns to you
+- use `getJSON` in order to parse an API and display the results as *you* desire
+- watch this tutorial to get ideas on how easy or hard this is: https://www.youtube.com/watch?v=5nL7X1UMWsc
+
+or
+
+- you will of cource have to `style` with `CSS` and include `jQuery` and your own `JS` file also
+- do a `TODO` list variation
+- as featured on page `344-345` as well as using the chart on `318`
