@@ -1,0 +1,29 @@
+.crust {
+  background: rgb(108,62,28);
+  height: 1em;
+}
+.holder {
+  margin: 1em;
+}
+#vanilla {
+  background: snow;
+  height: 4em;
+}
+#strawberry {
+  background: hotpink;
+    height: 4em;
+
+}
+#chocolate {
+  background: chocolate;
+    height: 4em;
+
+}
+
+div {
+  max-width: 330px;
+}
+.hidden {
+  display: none;
+}
+

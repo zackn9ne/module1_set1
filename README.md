@@ -756,3 +756,22 @@ or
 - you will of cource have to `style` with `CSS` and include `jQuery` and your own `JS` file also
 - do a `TODO` list variation
 - as featured on page `344-345` as well as using the chart on `318`
+
+# class 26
+- building your first web app
+
+# class 27
+- web app pitches
+
+# class 28
+- algorithms + Data Structures
+
+# class 29
+- page 96 function defs version function expressions
+- OOP
+- Decimal Numbers v Binary numbers
+
+# class 30
+- final critique
+- final is due by end of class on `final` class on `Monday`
+- add final in progress to your `GitHub` by Friday 
