@@ -744,7 +744,8 @@ _homework 25_
 - watch this video, especially up until `3:16` `https://www.youtube.com/watch?v=sBzRwzY7G-k&index=3&list=LL_X28oF7sfrfciJE1rOxI3w` 
 
 _homework 25_
-- final project ideas/intro
+
+Final Project
 
 - scrape an `API` and `style` the data as you want, using your _own_ layout and `CSS`
 - you will have to use a `loop` to do this in order to `loop` through the `JSON` aka `JS Objects` the `API` returns to you
@@ -754,7 +755,7 @@ How do I do this?
 
 1. follow video one: https://www.youtube.com/watch?v=fEYx8dQr_cQ&t=5s to learn how to do `GET` requests
 2. video two (not necesary but fun to watch) https://www.youtube.com/watch?v=5nL7X1UMWsc
-3. use this for your `url` argument http://rest.learncode.academy/api/johnbob/friends
+3. use this for your `$.ajax` `url` argument http://rest.learncode.academy/api/johnbob/friends
 4. you will of cource have to `style` with `CSS` and include `jQuery` and your own `JS` file also
 
 
