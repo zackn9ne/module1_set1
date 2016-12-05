@@ -754,9 +754,10 @@ Final Project
 How do I do this?
 
 1. follow video one: https://www.youtube.com/watch?v=fEYx8dQr_cQ&t=5s to learn how to do `GET` requests
-2. video two (not necesary but fun to watch) https://www.youtube.com/watch?v=5nL7X1UMWsc
-3. use this for your `$.ajax` `url` argument http://rest.learncode.academy/api/johnbob/friends
-4. you will of cource have to `style` with `CSS` and include `jQuery` and your own `JS` file also
+2. the _most useful_ part of the video starts on the `4:00` mark
+3. video two (not necesary but fun to watch) https://www.youtube.com/watch?v=5nL7X1UMWsc
+4. use this for your `$.ajax` `url` argument http://rest.learncode.academy/api/johnbob/friends
+5. you will of cource have to `style` with `CSS` and include `jQuery` and your own `JS` file also
 
 
 # class 26
