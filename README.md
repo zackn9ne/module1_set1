@@ -749,7 +749,9 @@ _homework 25_
 - scrape an `API` and `style` the data as you want, using your _own_ layout and `CSS`
 - you will have to use a `loop` to do this in order to `loop` through the `JSON` aka `JS Objects` the `API` returns to you
 - use `getJSON` in order to parse an API and display the results as *you* desire
-- watch this tutorial to get ideas on how easy or hard this is: https://www.youtube.com/watch?v=5nL7X1UMWsc
+
+- follow video one: https://www.youtube.com/watch?v=fEYx8dQr_cQ&t=5s to learn how to do `GET` requests
+- video two (not necesary but fun to watch) https://www.youtube.com/watch?v=5nL7X1UMWsc
 - use this for your `url` argument http://rest.learncode.academy/api/johnbob/friends
 
 or
