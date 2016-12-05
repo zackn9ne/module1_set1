@@ -750,6 +750,7 @@ _homework 25_
 - you will have to use a `loop` to do this in order to `loop` through the `JSON` aka `JS Objects` the `API` returns to you
 - use `getJSON` in order to parse an API and display the results as *you* desire
 - watch this tutorial to get ideas on how easy or hard this is: https://www.youtube.com/watch?v=5nL7X1UMWsc
+- use this for your `url` argument http://rest.learncode.academy/api/johnbob/friends
 
 or
 
