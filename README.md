@@ -748,17 +748,15 @@ _homework 25_
 
 - scrape an `API` and `style` the data as you want, using your _own_ layout and `CSS`
 - you will have to use a `loop` to do this in order to `loop` through the `JSON` aka `JS Objects` the `API` returns to you
-- use `getJSON` in order to parse an API and display the results as *you* desire
+- use jQuery's `$.ajax` in order to parse an API and display the results as *you* desire
 
-- follow video one: https://www.youtube.com/watch?v=fEYx8dQr_cQ&t=5s to learn how to do `GET` requests
-- video two (not necesary but fun to watch) https://www.youtube.com/watch?v=5nL7X1UMWsc
-- use this for your `url` argument http://rest.learncode.academy/api/johnbob/friends
+How do I do this?
 
-or
+1. follow video one: https://www.youtube.com/watch?v=fEYx8dQr_cQ&t=5s to learn how to do `GET` requests
+2. video two (not necesary but fun to watch) https://www.youtube.com/watch?v=5nL7X1UMWsc
+3. use this for your `url` argument http://rest.learncode.academy/api/johnbob/friends
+4. you will of cource have to `style` with `CSS` and include `jQuery` and your own `JS` file also
 
-- you will of cource have to `style` with `CSS` and include `jQuery` and your own `JS` file also
-- do a `TODO` list variation
-- as featured on page `344-345` as well as using the chart on `318`
 
 # class 26
 - building your first web app
